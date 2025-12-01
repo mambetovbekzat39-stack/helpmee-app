@@ -1,7 +1,7 @@
 {
   "name": "99 имён Аллаха",
   "short_name": "Аллах 99",
-  "start_url": "/index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a73e8",
