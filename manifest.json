@@ -1,10 +1,11 @@
 {
   "name": "99 имён Аллаха",
   "short_name": "Аллах 99",
-  "start_url": "./",
+  "description": "Приложение с 99 прекрасными именами Аллаха",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#1a73e8",
+  "theme_color": "#4A90E2",
   "icons": [
     {
       "src": "icon-192.png",
